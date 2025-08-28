@@ -20,7 +20,7 @@ rather than a strict guided path into c prowess.
 
 1. Run the `make` command. What is the error? What is the fix?
 2. It is usually NOT a good idea to commit an executable file on git. Why?
-How can you ignore the executable you are producing in this repo?
+How can you make git ignore the executable you are producing in this repo?
 3. Run `make` twice. What is the inefficiency? What is the fix (at least two possible)?
 4. From your `main.c` file, print the value of only constant
 defined in `status.h`. What is the error? What is the fix (at least two possible)?

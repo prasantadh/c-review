@@ -38,6 +38,10 @@ also define a student. What is the error? What is the fix?
 3. Create two files `sizeinfo.h` and `sizeinfo.c`. `sizeinfo.h` should
 expose a function `void system_sizes()`. This function
 
+As you work with multiple files, ensure that your editor recognizes
+symbols and errors from other files. Remember the `bear` software
+that was discussed in lab setup videos.
+
 ### Building blocks of Programming
 
 1. Sequence: Covered in `Playing around with makefile`
